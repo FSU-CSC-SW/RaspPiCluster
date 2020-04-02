@@ -1,0 +1,84 @@
+
+*************************
+
+Initializing...
+
+The Variable 'worstCaseArray' is set to:
+    [50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+The Variable 'num' is set to: 12
+
+~~Beginning Computations~~
+
+For ReverseElements(worstCaseArray):
+ Info: This program runs in O(n) time
+ All Execution Speeds: [2.4600000000041256e-05, 2.5999999999637424e-06, 2.1000000000048757e-06, 1.999999999946489e-06, 1.8999999999991246e-06]
+ Average Execution Time of this instance After 5 repetitions is 6.639999999991098e-06
+ Quickest Execution Time is 1.8999999999991246e-06
+
+For SortingAlgProcessor(worstCaseArray):
+ Info: This program runs in O(n^2) time
+ All Execution Speeds: [3.4599999999995745e-05, 1.180000000000625e-05, 1.1399999999994748e-05, 1.1299999999936361e-05, 1.1199999999988997e-05]
+ Average Execution Time of this instance After 5 repetitions is 1.605999999998442e-05
+ Quickest Execution Time is 1.1199999999988997e-05
+
+For heapSort(worstCaseArray):
+ Info: This program runs in O(n log n) time
+ All Execution Speeds: [0.0007871999999999879, 0.0007985000000000353, 0.0007557000000000258, 0.0008213000000000248, 0.0008642000000000927]
+ Average Execution Time of this instance After 5 repetitions is 0.0008053800000000332
+ Quickest Execution Time is 0.0007557000000000258
+
+For Fibonacci(num):
+ Info: This program runs in O(2^n) time
+ All Execution Speeds: [0.0005425000000000013, 0.0004997999999999392, 0.0004964000000000635, 0.0004922000000000537, 0.0004926000000000652]
+ Average Execution Time of this instance After 5 repetitions is 0.0005047000000000246
+ Quickest Execution Time is 0.0004922000000000537
+
+For AlgorithmCycle(ReverseElements, SortingAlgProcessor, heapSort, Fibonacci, worstCaseArray, num):
+ Info: This Program runs all 4 previous programs to get a complete time
+ All Execution Speeds: [0.0024728000000000527, 0.00221070000000001, 0.0024887000000000103, 0.0024316999999999256, 0.0023031999999999497]
+ Average Execution Time of this instance After 5 repetitions is 0.0023814199999999896
+ Quickest Execution Time is 0.00221070000000001
+
+~~Competitions are Complete~~
+
+*************************
+
+Initializing...
+
+The Variable 'worstCaseArray' is set to:
+    [50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+The Variable 'num' is set to: 12
+
+~~Beginning Computations~~
+
+For ReverseElements(worstCaseArray):
+ Info: This program runs in O(n) time
+ All Execution Speeds: [2.380000000001825e-05, 2.0000000000575113e-06, 1.7999999999407379e-06, 1.6999999999933735e-06, 1.600000000046009e-06]
+ Average Execution Time of this instance After 5 repetitions is 6.180000000011177e-06
+ Quickest Execution Time is 1.600000000046009e-06
+
+For SortingAlgProcessor(worstCaseArray):
+ Info: This program runs in O(n^2) time
+ All Execution Speeds: [4.950000000003563e-05, 1.1300000000047383e-05, 1.0799999999977494e-05, 1.070000000003013e-05, 1.070000000003013e-05]
+ Average Execution Time of this instance After 5 repetitions is 1.8600000000024152e-05
+ Quickest Execution Time is 1.070000000003013e-05
+
+For heapSort(worstCaseArray):
+ Info: This program runs in O(n log n) time
+ All Execution Speeds: [0.0007555999999999674, 0.000707499999999972, 0.0007004000000000454, 0.0006985999999999937, 0.0007029000000000618]
+ Average Execution Time of this instance After 5 repetitions is 0.0007130000000000081
+ Quickest Execution Time is 0.0006985999999999937
+
+For Fibonacci(num):
+ Info: This program runs in O(2^n) time
+ All Execution Speeds: [0.0005372000000000154, 0.00048559999999997494, 0.0005207999999999879, 0.0005125999999999742, 0.0004886000000000612]
+ Average Execution Time of this instance After 5 repetitions is 0.0005089600000000027
+ Quickest Execution Time is 0.00048559999999997494
+
+For AlgorithmCycle(ReverseElements, SortingAlgProcessor, heapSort, Fibonacci, worstCaseArray, num):
+ Info: This Program runs all 4 previous programs to get a complete time
+ All Execution Speeds: [0.0021807999999999828, 0.002189400000000008, 0.0021138000000000545, 0.0020772999999999486, 0.0021276999999999546]
+ Average Execution Time of this instance After 5 repetitions is 0.0021377999999999896
+ Quickest Execution Time is 0.0020772999999999486
+
+~~Competitions are Complete~~
