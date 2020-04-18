@@ -10,4 +10,6 @@ files that have "Func" in the name, are computational files and thus dont need t
 
 "test_data.py" is the file that contains the data that the computational functions are tested by
 
+Para_Feature_Recorder.py" is the file containing the functions that measures the algorithms ran sequentially against the algorithms ran synchronously
+
 "READ_ME.txt" is the documentation file to help guide the user's understanding of the application.
